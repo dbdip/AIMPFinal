@@ -1,5 +1,5 @@
 ﻿최종 Scene파일: NewDOI.unity
-최종 Scropt파일: AllScriptFinal.cs
+최종 Script파일: AllScriptFinal.cs
 
 Screen model에 AllScriptFinal.cs 스크립트를 Add Component 후 Prefabs 폴더의 Line을 Assign
 
